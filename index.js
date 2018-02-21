@@ -1,3 +1,4 @@
+
 var request = require('request');
 var fs = require('fs');
 
@@ -27,6 +28,3 @@ function notify(ip, title, msg, image, duration) {
 }
 
 module.exports = notify;
-
-// Exmaple:
-// notify('192.168.1.64', 'Stock Alert', "Stock Price Watch: $118.25 as of "+Date(), "stock.png", "15")
