@@ -1,7 +1,8 @@
 # android-tv-notify
 
 ### Android TV Notifications
-This is for sending quick notifications/alerts to your Android TV.  It requires that the "Notification for Android TV" apk be installed on your TV to receive the messages.
+This is for sending quick notifications/alerts to your Android TV.  
+It requires that the "Notifications for Android TV" apk be installed on your Android TV to receive the messages.
 
 ###### Example Use:
 
